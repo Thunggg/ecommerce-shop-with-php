@@ -7,7 +7,7 @@ use Illuminate\Http\Request;
 
 class UserController extends Controller
 {
-    public function __struct(){
+    public function __construct(){
 
     }
 }
